@@ -1,0 +1,3 @@
+For a=1 To 5
+  TextWindow.WriteLine("12*"+a+"="+12*a) 
+  EndFor 

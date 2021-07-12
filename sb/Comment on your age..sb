@@ -1,0 +1,13 @@
+TextWindow.Write("Enter your age: ")
+a = TextWindow.ReadNumber()
+If a >=18 And a < 50 Then 
+  TextWindow.WriteLine("You are young.")
+ElseIf a >= 11 and a < 18 Then
+  TextWindow.WriteLine("You're a teen")
+ElseIf a >= 50 and a < 100 Then
+TextWindow.WriteLine("You are older than I thought.")
+ElseIf a < 11 then
+  TextWindow.WriteLine("GROW UPPPPPPPPPP !")
+ElseIf a >= 100 then
+  TextWindow.WriteLine("Woow that's a world record")
+  EndIf

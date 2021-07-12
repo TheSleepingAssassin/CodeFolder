@@ -1,0 +1,21 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "sockets using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "p5js",
+    "node",
+    "sockets"
+  ],
+  "author": "Prem Naik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

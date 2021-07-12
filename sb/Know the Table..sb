@@ -1,0 +1,5 @@
+TextWindow.Write("Enter one number which you want to know the table of:")
+g = TextWindow.ReadNumber()
+For n=1 To 10
+  TextWindow.WriteLine(g+"*"+n+"="+g*n)
+EndFor

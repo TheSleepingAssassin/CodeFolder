@@ -1,0 +1,19 @@
+{
+  "name": "postrequestwithfetch",
+  "version": "1.0.0",
+  "description": "We will be posting requests with fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "post",
+    "request"
+  ],
+  "author": "Prem Naik",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

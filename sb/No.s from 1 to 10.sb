@@ -1,0 +1,3 @@
+For a = 1 To 10
+  TextWindow.WriteLine(a)
+  endfor

@@ -1,0 +1,6 @@
+GraphicsWindow.BackgroundColor="Green"
+GraphicsWindow.BrushColor="Red"
+GraphicsWindow.FontSize="100"
+GraphicsWindow.FontBold="True"
+GraphicsWindow.FontItalic="True"
+GraphicsWindow.DrawText(100,200,"Prem Naik")

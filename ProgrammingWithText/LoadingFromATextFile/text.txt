@@ -1,0 +1,9 @@
+This is some plain text.
+For Loading from a text file.
+So I think I have to type at least some lines.
+P5js
+Processing
+Processing.py
+Processing for Android
+I don't know why I am typing this
+16 Levels of Blinding Lights

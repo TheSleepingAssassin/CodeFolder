@@ -1,0 +1,13 @@
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.exe
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.deps.json
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.runtimeconfig.json
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.runtimeconfig.dev.json
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.dll
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\bin\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.pdb
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.csprojAssemblyReference.cache
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.AssemblyInfoInputs.cache
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.AssemblyInfo.cs
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.dll
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.pdb
+C:\Users\PremM\Documents\Code\C#\FirstAwesomeProgram\obj\HPD\Debug\netcoreapp3.1\FirstAwesomeProgram.genruntimeconfig.cache
